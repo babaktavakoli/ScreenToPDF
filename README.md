@@ -2,6 +2,11 @@
 The script saves screenshots to PDF while it changes the page automatically with a keypress.
 
 ### How to use:
+1. After instaling python run setup (just for the first run):
+  `python setup.py`
+2. Run the main script:
+   `python main.py`
+
 After entering the number of screenshots you want to take, place your mouse pointer to the top-left pont of the interested area and awit for a beep. Place the pointer on the end-right point and wait for two beeps. Accept or correct the values and open your interested app and wait to get the PDF file as 'exported.pdf".
 
 The 'left' key is used by default as I used it for certain purposes.
